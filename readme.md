@@ -4,10 +4,10 @@ We want to develop a new transactions processor library to complete online payme
 
 ## Your tasks
 
-- Have a look to the code. Do you miss any class?
-- Complete **./src/TransactionProcessor.js** class.
-- Make sure all tests pass. Would you include more tests?
-- Do you know the pattern used by TransactionProcessor class?
+- Have a look to the code. Do you miss any class? No
+- Complete **./src/TransactionProcessor.js** class. 
+- Make sure all tests pass. Would you include more tests? In my opinion all cases are addressed
+- Do you know the pattern used by TransactionProcessor class? class ES6
 
 We strongly recommend the use of: map, filter and reduce (among others).
 
