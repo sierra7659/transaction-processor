@@ -7,7 +7,7 @@ We want to develop a new transactions processor library to complete online payme
 - Have a look to the code. Do you miss any class? No
 - Complete **./src/TransactionProcessor.js** class. 
 - Make sure all tests pass. Would you include more tests? In my opinion all cases are addressed
-- Do you know the pattern used by TransactionProcessor class? class ES6
+- Do you know the pattern used by TransactionProcessor class? class ES6 //Updated 31/10/19 Functional Pattern
 
 We strongly recommend the use of: map, filter and reduce (among others).
 
